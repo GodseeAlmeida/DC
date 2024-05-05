@@ -1,0 +1,3 @@
+public interface RPCInterface {
+    int func(int a);
+}
